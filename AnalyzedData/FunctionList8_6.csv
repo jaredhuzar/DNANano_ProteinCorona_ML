@@ -1,0 +1,556 @@
+,0
+0,1-alkyl-2-acetylglycerophosphocholine esterase activity
+1,1-phosphatidylinositol binding
+2,1-phosphatidylinositol-3-kinase activity
+3,"1-phosphatidylinositol-4,5-bisphosphate 3-kinase activity"
+4,1-phosphatidylinositol-4-phosphate 3-kinase activity
+5,14-3-3 protein binding
+6,"3 iron, 4 sulfur cluster binding"
+7,"4 iron, 4 sulfur cluster binding"
+8,5'-nucleotidase activity
+9,5S rRNA binding
+10,A1 adenosine receptor binding
+11,ABC-type sterol transporter activity
+12,ABC-type transporter activity
+13,ABC-type xenobiotic transporter activity
+14,ADP binding
+15,ATP binding
+16,ATP hydrolysis activity
+17,"ATP-dependent activity, acting on RNA"
+18,ATP-dependent protein disaggregase activity
+19,ATP-dependent protein folding chaperone
+20,ATPase binding
+21,ATPase-coupled intramembrane lipid transporter activity
+22,ATPase-coupled lipid transmembrane transporter activity
+23,ATPase-coupled transmembrane transporter activity
+24,Arp2/3 complex binding
+25,C3HC4-type RING finger domain binding
+26,C5L2 anaphylatoxin chemotactic receptor binding
+27,DNA binding
+28,DNA helicase activity
+29,DNA replication origin binding
+30,"DNA-binding transcription activator activity, RNA polymerase II-specific"
+31,DNA-binding transcription factor activity
+32,"DNA-binding transcription factor activity, RNA polymerase II-specific"
+33,DNA-binding transcription factor binding
+34,"DNA-binding transcription repressor activity, RNA polymerase II-specific"
+35,DNA-directed DNA polymerase activity
+36,FAD binding
+37,Fc-gamma receptor I complex binding
+38,G protein activity
+39,G protein-coupled receptor binding
+40,GDP binding
+41,GTP binding
+42,GTP-dependent protein binding
+43,GTPase activating protein binding
+44,GTPase activator activity
+45,GTPase activity
+46,GTPase binding
+47,Hsp70 protein binding
+48,IgA binding
+49,IgG binding
+50,JUN kinase binding
+51,L-aspartate:2-oxoglutarate aminotransferase activity
+52,L-cysteine transaminase activity
+53,L-lactate dehydrogenase activity
+54,LIM domain binding
+55,MHC class I protein binding
+56,MHC class II protein complex binding
+57,N-acetylgalactosaminyl-proteoglycan 3-beta-glucuronosyltransferase activity
+58,N-acetylmuramoyl-L-alanine amidase activity
+59,N6-methyladenosine-containing RNA reader activity
+60,NAD binding
+61,NAD+ nucleosidase activity
+62,"NAD+ nucleotidase, cyclic ADP-ribose generating"
+63,NADP binding
+64,NF-kappaB binding
+65,PDZ domain binding
+66,RAGE receptor binding
+67,RNA binding
+68,RNA cap binding
+69,RNA helicase activity
+70,RNA nuclease activity
+71,RNA polymerase II cis-regulatory region sequence-specific DNA binding
+72,RNA polymerase II core promoter sequence-specific DNA binding
+73,RNA polymerase II transcription regulatory region sequence-specific DNA binding
+74,RNA polymerase II-specific DNA-binding transcription factor binding
+75,S-nitrosoglutathione binding
+76,S100 protein binding
+77,SH2 domain binding
+78,SH3 domain binding
+79,SNARE binding
+80,STAT family protein binding
+81,Tat protein binding
+82,Toll-like receptor 4 binding
+83,U1 snRNP binding
+84,U7 snRNA binding
+85,XMP 5'-nucleosidase activity
+86,acetoacetyl-CoA hydrolase activity
+87,acetyl-CoA hydrolase activity
+88,acetylcholine receptor activity
+89,aconitate hydratase activity
+90,acrosin binding
+91,actin binding
+92,actin filament binding
+93,actin monomer binding
+94,acyl-CoA hydrolase activity
+95,acyl-L-homoserine-lactone lactonohydrolase activity
+96,adenosylhomocysteinase activity
+97,adenyl-nucleotide exchange factor activity
+98,adipokinetic hormone receptor activity
+99,adiponectin binding
+100,alpha-amylase activity
+101,alpha-catenin binding
+102,alpha-tubulin binding
+103,amino acid sensor activity
+104,aminoacylase activity
+105,aminopeptidase activity
+106,amyloid-beta binding
+107,angiostatin binding
+108,ankyrin binding
+109,ankyrin repeat binding
+110,antigen binding
+111,antioxidant activity
+112,apolipoprotein A-I binding
+113,apolipoprotein A-I receptor binding
+114,apolipoprotein binding
+115,apolipoprotein receptor binding
+116,arachidonic acid binding
+117,arginase activity
+118,aryldialkylphosphatase activity
+119,arylesterase activity
+120,aspartic-type endopeptidase activity
+121,aspartic-type peptidase activity
+122,axon guidance receptor activity
+123,beta-catenin binding
+124,bis(5'-adenosyl)-hexaphosphatase activity
+125,bis(5'-adenosyl)-pentaphosphatase activity
+126,bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) activity
+127,brain-derived neurotrophic factor binding
+128,bubble DNA binding
+129,cadherin binding
+130,calcidiol binding
+131,calcium channel inhibitor activity
+132,calcium ion binding
+133,calcium oxalate binding
+134,calcium-activated potassium channel activity
+135,calcium-dependent cysteine-type endopeptidase activity
+136,calcium-dependent phospholipid binding
+137,calcium-dependent protein binding
+138,calmodulin binding
+139,carbohydrate binding
+140,carbohydrate derivative binding
+141,carboxylic ester hydrolase activity
+142,carboxypeptidase activity
+143,catalase activity
+144,cell adhesion molecule binding
+145,cell adhesive protein binding involved in bundle of His cell-Purkinje myocyte communication
+146,ceramide binding
+147,ceramide transfer activity
+148,cerebroside transfer activity
+149,chemokine activity
+150,chemorepellent activity
+151,chloride channel activity
+152,chloride ion binding
+153,cholesterol binding
+154,cholesterol transfer activity
+155,choline binding
+156,choloyl-CoA hydrolase activity
+157,chromatin DNA binding
+158,chromatin binding
+159,chromatin-protein adaptor activity
+160,citrate (Si)-synthase activity
+161,clathrin binding
+162,clathrin heavy chain binding
+163,clathrin light chain binding
+164,clathrin-uncoating ATPase activity
+165,collagen V binding
+166,collagen binding
+167,complement binding
+168,complement component C1q complex binding
+169,complement component C3a binding
+170,complement component C3b binding
+171,copper ion binding
+172,coreceptor activity
+173,cyclosporin A binding
+174,cysteine-type aminopeptidase activity
+175,cysteine-type deubiquitinase activity
+176,cysteine-type endopeptidase activity
+177,cysteine-type endopeptidase inhibitor activity
+178,cysteine-type peptidase activity
+179,cytoskeletal motor activity
+180,cytoskeletal protein binding
+181,cytoskeletal protein-membrane anchor activity
+182,cytoskeleton-nuclear membrane anchor activity
+183,damaged DNA binding
+184,death receptor agonist activity
+185,death receptor binding
+186,delta-catenin binding
+187,denatured protein binding
+188,deoxycytidyl transferase activity
+189,diacylglyceride transfer activity
+190,diacylglycerol binding
+191,dinitrosyl-iron complex binding
+192,dipeptidase activity
+193,dipeptidyl-peptidase activity
+194,diphosphoinositol-polyphosphate diphosphatase activity
+195,disordered domain specific binding
+196,disulfide oxidoreductase activity
+197,double-stranded DNA binding
+198,double-stranded RNA adenosine deaminase activity
+199,double-stranded RNA binding
+200,double-stranded methylated DNA binding
+201,dynein complex binding
+202,dynein intermediate chain binding
+203,dynein light intermediate chain binding
+204,efflux transmembrane transporter activity
+205,endopeptidase activity
+206,endopeptidase inhibitor activity
+207,endopolyphosphatase activity
+208,enterobactin binding
+209,enzyme binding
+210,enzyme inhibitor activity
+211,enzyme regulator activity
+212,ephrin receptor binding
+213,exogenous protein binding
+214,extracellular matrix binding
+215,extracellular matrix structural constituent
+216,extracellular matrix structural constituent conferring compression resistance
+217,extracellular matrix structural constituent conferring tensile strength
+218,fatty acid binding
+219,fatty acyl-CoA hydrolase activity
+220,ferric iron binding
+221,ferrous iron binding
+222,ferroxidase activity
+223,fibrinogen binding
+224,fibroblast growth factor binding
+225,fibronectin binding
+226,flavin-dependent sulfhydryl oxidase activity
+227,four-way junction DNA binding
+228,fructose binding
+229,fructose-1-phosphate aldolase activity
+230,fructose-bisphosphate aldolase activity
+231,gamma-catenin binding
+232,general transcription initiation factor binding
+233,glucuronosyl-N-acetylgalactosaminyl-proteoglycan 4-beta-N-acetylgalactosaminyltransferase activity
+234,glutamine synthetase activity
+235,glutathione peroxidase activity
+236,glutathione transferase activity
+237,glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity
+238,glycine-tRNA ligase activity
+239,glycosaminoglycan binding
+240,growth factor activity
+241,growth factor binding
+242,guanyl-nucleotide exchange factor activity
+243,heat shock protein binding
+244,helicase activity
+245,heme binding
+246,heme transmembrane transporter activity
+247,hemoglobin alpha binding
+248,hemoglobin binding
+249,heparan sulfate binding
+250,heparan sulfate proteoglycan binding
+251,heparin binding
+252,high-density lipoprotein particle binding
+253,high-density lipoprotein particle receptor binding
+254,histone H3 acetyltransferase activity
+255,histone H3K14 acetyltransferase activity
+256,histone H3T11 kinase activity
+257,histone acetyltransferase activity
+258,histone binding
+259,histone deacetylase binding
+260,histone pre-mRNA DCP binding
+261,hormone activity
+262,hyaluronic acid binding
+263,hydrolase activity
+264,hydroxymethylglutaryl-CoA hydrolase activity
+265,identical protein binding
+266,immunoglobulin binding
+267,immunoglobulin receptor binding
+268,importin-alpha family protein binding
+269,"inositol-3,5-bisdiphosphate-2,3,4,6-tetrakisphosphate 5-diphosphatase activity"
+270,"inositol-5-diphosphate-1,2,3,4,6-pentakisphosphate diphosphatase activity"
+271,insulin-like growth factor binding
+272,integrin binding
+273,interleukin-1 binding
+274,interleukin-2 receptor binding
+275,interleukin-8 binding
+276,intermediate filament binding
+277,intraciliary transport particle A binding
+278,ionotropic glutamate receptor binding
+279,iron chaperone activity
+280,iron ion binding
+281,isocitrate dehydrogenase (NAD+) activity
+282,isocitrate dehydrogenase (NADP+) activity
+283,isomerase activity
+284,keratin filament binding
+285,kinase activity
+286,kinase binding
+287,kinase inhibitor activity
+288,kinase regulator activity
+289,kinesin binding
+290,kynurenine-oxoglutarate transaminase activity
+291,lamin binding
+292,laminin binding
+293,laminin receptor activity
+294,ligand-gated sodium channel activity
+295,lipase binding
+296,lipase inhibitor activity
+297,lipid binding
+298,lipid transporter activity
+299,lipopeptide binding
+300,lipopolysaccharide binding
+301,lipoprotein lipase activator activity
+302,lipoprotein particle binding
+303,lipoteichoic acid binding
+304,lncRNA binding
+305,long-chain fatty acyl-CoA hydrolase activity
+306,low-density lipoprotein particle binding
+307,low-density lipoprotein particle receptor binding
+308,lysine-acetylated histone binding
+309,lysozyme activity
+310,mRNA 3'-UTR AU-rich region binding
+311,mRNA 3'-UTR binding
+312,mRNA binding
+313,magnesium ion binding
+314,manganese ion binding
+315,medium-chain fatty acyl-CoA hydrolase activity
+316,metal chelating activity
+317,metal ion binding
+318,metallocarboxypeptidase activity
+319,metallodipeptidase activity
+320,metalloendopeptidase inhibitor activity
+321,methionine adenosyltransferase activity
+322,methylated histone binding
+323,methylglyoxal synthase activity
+324,miRNA binding
+325,microfilament motor activity
+326,microtubule binding
+327,microtubule motor activity
+328,microtubule plus-end binding
+329,minus-end-directed microtubule motor activity
+330,misfolded protein binding
+331,mitogen-activated protein kinase binding
+332,molecular adaptor activity
+333,molecular condensate scaffold activity
+334,molecular function activator activity
+335,molecular sequestering activity
+336,monoatomic anion channel activity
+337,monoatomic cation channel activity
+338,monoatomic ion channel activity
+339,monosaccharide binding
+340,myosin II binding
+341,myosin phosphatase activity
+342,myosin phosphatase regulator activity
+343,nerve growth factor binding
+344,neuropilin binding
+345,nicotinate-nucleotide adenylyltransferase activity
+346,nitric oxide binding
+347,nitric-oxide synthase binding
+348,non-membrane spanning protein tyrosine kinase activity
+349,nuclear receptor binding
+350,nucleosomal DNA binding
+351,nucleotide binding
+352,organic acid binding
+353,oxidoreductase activity
+354,"oxidoreductase activity, acting on metal ions, oxygen as acceptor"
+355,"oxidoreductase activity, acting on peroxide as acceptor"
+356,oxygen binding
+357,oxygen carrier activity
+358,p53 binding
+359,pattern recognition receptor activity
+360,peptidase activator activity
+361,peptidase activator activity involved in apoptotic process
+362,peptidase activity
+363,peptide binding
+364,peptide-lysine-N-acetyltransferase activity
+365,peptidoglycan binding
+366,peptidoglycan immune receptor activity
+367,peptidyl-prolyl cis-trans isomerase activity
+368,peroxidase activity
+369,phosphatase binding
+370,phosphate transmembrane transporter activity
+371,phosphate:proton symporter activity
+372,phosphatidic acid binding
+373,phosphatidic acid transfer activity
+374,phosphatidylcholine binding
+375,phosphatidylcholine floppase activity
+376,phosphatidylcholine transfer activity
+377,phosphatidylcholine-sterol O-acyltransferase activator activity
+378,phosphatidylcholine-sterol O-acyltransferase activity
+379,phosphatidylethanolamine binding
+380,phosphatidylethanolamine transfer activity
+381,phosphatidylglycerol binding
+382,phosphatidylglycerol transfer activity
+383,phosphatidylinositol 3-kinase catalytic subunit binding
+384,phosphatidylinositol binding
+385,phosphatidylinositol transfer activity
+386,"phosphatidylinositol-3,4,5-trisphosphate binding"
+387,phosphatidylinositol-3-phosphate binding
+388,"phosphatidylinositol-4,5-bisphosphate binding"
+389,phosphatidylserine binding
+390,phosphatidylserine decarboxylase activity
+391,phosphoglycerate kinase activity
+392,phospholipase C activity
+393,phospholipase activator activity
+394,phospholipase binding
+395,phospholipase inhibitor activity
+396,phospholipid binding
+397,phospholipid transfer activity
+398,phospholipid transporter activity
+399,phospholipid-hydroperoxide glutathione peroxidase activity
+400,phosphopyruvate hydratase activity
+401,phosphoserine residue binding
+402,phosphotyrosine residue binding
+403,platelet-activating factor acetyltransferase activity
+404,poly(A) binding
+405,poly(U) RNA binding
+406,polysaccharide binding
+407,potassium ion binding
+408,pre-mRNA intronic binding
+409,preribosome binding
+410,primary miRNA binding
+411,profilin binding
+412,proline-rich region binding
+413,propionyl-CoA carboxylase activity
+414,prostaglandin binding
+415,protease binding
+416,proteasome-activating activity
+417,protein carrier chaperone
+418,protein dimerization activity
+419,protein disulfide isomerase activity
+420,protein domain specific binding
+421,protein folding chaperone
+422,protein heterodimerization activity
+423,protein homodimerization activity
+424,protein kinase A binding
+425,protein kinase A catalytic subunit binding
+426,protein kinase A regulatory subunit binding
+427,protein kinase C binding
+428,protein kinase C inhibitor activity
+429,protein kinase activator activity
+430,protein kinase activity
+431,protein kinase binding
+432,protein phosphatase binding
+433,protein phosphatase regulator activity
+434,protein sequestering activity
+435,protein serine kinase activity
+436,protein serine/threonine kinase activity
+437,protein serine/threonine phosphatase activity
+438,protein tag activity
+439,protein transmembrane transporter activity
+440,protein tyrosine kinase activity
+441,protein tyrosine phosphatase activity
+442,protein-RNA adaptor activity
+443,protein-RNA sequence-specific adaptor activity
+444,protein-containing complex binding
+445,protein-cysteine S-palmitoyltransferase activity
+446,protein-disulfide reductase (NAD(P)H) activity
+447,protein-disulfide reductase activity
+448,protein-folding chaperone binding
+449,protein-glutamine gamma-glutamyltransferase activity
+450,protein-macromolecule adaptor activity
+451,protein-membrane adaptor activity
+452,proteinase activated receptor binding
+453,proteoglycan binding
+454,proton transmembrane transporter activity
+455,"proton-transporting ATP synthase activity, rotational mechanism"
+456,"proton-transporting ATPase activity, rotational mechanism"
+457,purine ribonucleoside triphosphate binding
+458,pyridoxal phosphate binding
+459,pyruvate kinase activity
+460,receptor ligand activity
+461,retinal binding
+462,retinoic acid binding
+463,retinol binding
+464,retinol transmembrane transporter activity
+465,retromer complex binding
+466,ribosome binding
+467,sarcosine dehydrogenase activity
+468,scaffold protein binding
+469,scavenger receptor activity
+470,selenium binding
+471,sequence-specific double-stranded DNA binding
+472,serine-type endopeptidase activity
+473,serine-type endopeptidase inhibitor activity
+474,serine-type peptidase activity
+475,signaling receptor activity
+476,signaling receptor binding
+477,single-stranded DNA binding
+478,small GTPase binding
+479,small molecule binding
+480,snoRNA binding
+481,somatostatin receptor binding
+482,sphingomyelin transfer activity
+483,steroid binding
+484,sterol esterase activity
+485,structural constituent of chromatin
+486,structural constituent of cytoskeleton
+487,structural constituent of eye lens
+488,structural constituent of muscle
+489,structural constituent of nuclear pore
+490,structural constituent of postsynaptic actin cytoskeleton
+491,structural constituent of postsynaptic density
+492,structural constituent of ribosome
+493,structural constituent of skin epidermis
+494,structural molecule activity
+495,succinyl-CoA hydrolase activity
+496,synaptic receptor adaptor activity
+497,syntaxin binding
+498,syntaxin-1 binding
+499,tRNA 2'-phosphotransferase activity
+500,tRNA-specific adenosine deaminase activity
+501,tau protein binding
+502,telomerase RNA binding
+503,thiamine pyrophosphate binding
+504,thioredoxin peroxidase activity
+505,thrombospondin receptor activity
+506,thyroid hormone binding
+507,thyrotropin-releasing hormone receptor binding
+508,toxic substance binding
+509,transcription coactivator activity
+510,transcription coregulator activity
+511,transcription corepressor activity
+512,transcription corepressor binding
+513,transcription factor binding
+514,transcription regulator inhibitor activity
+515,transferase activity
+516,transferrin receptor activity
+517,transferrin receptor binding
+518,transforming growth factor beta binding
+519,transition metal ion binding
+520,transketolase activity
+521,translation activator activity
+522,translation elongation factor activity
+523,"translation factor activity, RNA binding"
+524,translation initiation factor activity
+525,transmembrane transporter binding
+526,triglyceride binding
+527,triglyceride lipase activity
+528,triose-phosphate isomerase activity
+529,tryptophan-tRNA ligase activity
+530,tubulin binding
+531,tumor necrosis factor binding
+532,tumor necrosis factor receptor binding
+533,type 1 angiotensin receptor binding
+534,type 2 angiotensin receptor binding
+535,type I transforming growth factor beta receptor binding
+536,type II transforming growth factor beta receptor binding
+537,ubiquitin binding
+538,ubiquitin ligase inhibitor activity
+539,ubiquitin protein ligase activity
+540,ubiquitin protein ligase binding
+541,ubiquitin-like ligase-substrate adaptor activity
+542,ubiquitin-like protein ligase binding
+543,unfolded protein binding
+544,very-low-density lipoprotein particle binding
+545,very-low-density lipoprotein particle receptor binding
+546,vinculin binding
+547,virion binding
+548,virus receptor activity
+549,vitamin D binding
+550,vitamin E binding
+551,vitamin transmembrane transporter activity
+552,zinc ion binding
+553,zinc ion sequestering activity
+554,zymogen binding
