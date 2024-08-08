@@ -1,0 +1,699 @@
+,0
+Hydropathy,0.004855617
+Net Charge,0.0060946625
+Aromaticity,0.0028188478
+Neutral Charge,0.0030073067
+IsoelectricPoint,0.005408519
+LengthAminoAcids,0.004921023
+Instability,0.0048495997
+Gravy,0.0
+Molecular Weight,0.0034600983
+Helix,0.00965379
+Turn,0.0035620802
+Sheets,0.004175213
+flexMed,0.0073622838
+flexMin,0.004873022
+flexMax,0.0024309796
+1-alkyl-2-acetylglycerophosphocholine esterase activity,0.0
+1-phosphatidylinositol binding,0.0
+1-phosphatidylinositol-3-kinase activity,0.0
+"1-phosphatidylinositol-4,5-bisphosphate 3-kinase activity",0.0
+1-phosphatidylinositol-4-phosphate 3-kinase activity,0.0
+14-3-3 protein binding,0.0
+"3 iron, 4 sulfur cluster binding",0.0
+"4 iron, 4 sulfur cluster binding",0.0
+5'-nucleotidase activity,0.0
+5S rRNA binding,0.0
+A1 adenosine receptor binding,0.0
+ABC-type sterol transporter activity,0.0
+ABC-type transporter activity,0.0
+ABC-type xenobiotic transporter activity,0.0
+ADP binding,0.0
+ATP binding,0.004702444
+ATP hydrolysis activity,0.0
+"ATP-dependent activity, acting on RNA",0.0
+ATP-dependent protein disaggregase activity,0.0
+ATP-dependent protein folding chaperone,0.0
+ATPase binding,0.0
+ATPase-coupled intramembrane lipid transporter activity,0.0
+ATPase-coupled lipid transmembrane transporter activity,0.0
+ATPase-coupled transmembrane transporter activity,0.0
+Arp2/3 complex binding,0.0
+C3HC4-type RING finger domain binding,0.0
+C5L2 anaphylatoxin chemotactic receptor binding,0.0
+DNA binding,0.0
+DNA helicase activity,0.0
+DNA replication origin binding,0.0
+"DNA-binding transcription activator activity, RNA polymerase II-specific",0.0
+DNA-binding transcription factor activity,0.0
+"DNA-binding transcription factor activity, RNA polymerase II-specific",0.0
+DNA-binding transcription factor binding,0.0
+"DNA-binding transcription repressor activity, RNA polymerase II-specific",0.0
+DNA-directed DNA polymerase activity,0.0
+FAD binding,0.0
+Fc-gamma receptor I complex binding,0.0
+G protein activity,0.0
+G protein-coupled receptor binding,0.0
+GDP binding,0.0011087088
+GTP binding,0.0
+GTP-dependent protein binding,0.0
+GTPase activating protein binding,0.00038090695
+GTPase activator activity,0.0
+GTPase activity,0.0
+GTPase binding,0.0021170194
+Hsp70 protein binding,0.0
+IgA binding,0.0
+IgG binding,0.0
+JUN kinase binding,0.0
+L-aspartate:2-oxoglutarate aminotransferase activity,0.0
+L-cysteine transaminase activity,0.0
+L-lactate dehydrogenase activity,0.0
+LIM domain binding,0.0
+MHC class I protein binding,0.0
+MHC class II protein complex binding,0.0
+N-acetylgalactosaminyl-proteoglycan 3-beta-glucuronosyltransferase activity,0.0
+N-acetylmuramoyl-L-alanine amidase activity,0.0
+N6-methyladenosine-containing RNA reader activity,0.0
+NAD binding,0.0
+NAD+ nucleosidase activity,0.0
+"NAD+ nucleotidase, cyclic ADP-ribose generating",0.0
+NADP binding,0.0
+NF-kappaB binding,0.0
+PDZ domain binding,0.0
+RAGE receptor binding,0.0
+RNA binding,0.004357308
+RNA cap binding,0.0
+RNA helicase activity,0.0
+RNA nuclease activity,0.0
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,0.0
+RNA polymerase II core promoter sequence-specific DNA binding,0.0
+RNA polymerase II transcription regulatory region sequence-specific DNA binding,0.0
+RNA polymerase II-specific DNA-binding transcription factor binding,0.0
+S-nitrosoglutathione binding,0.0
+S100 protein binding,0.0
+SH2 domain binding,0.0
+SH3 domain binding,0.0
+SNARE binding,0.0
+STAT family protein binding,0.0
+Tat protein binding,0.0
+Toll-like receptor 4 binding,0.0
+U1 snRNP binding,0.0
+U7 snRNA binding,0.0
+XMP 5'-nucleosidase activity,0.0
+acetoacetyl-CoA hydrolase activity,0.0
+acetyl-CoA hydrolase activity,0.0
+acetylcholine receptor activity,0.0
+aconitate hydratase activity,0.0
+acrosin binding,0.0
+actin binding,0.0
+actin filament binding,0.0032259063
+actin monomer binding,0.0
+acyl-CoA hydrolase activity,0.0
+acyl-L-homoserine-lactone lactonohydrolase activity,0.0
+adenosylhomocysteinase activity,0.0
+adenyl-nucleotide exchange factor activity,0.0
+adipokinetic hormone receptor activity,0.0
+adiponectin binding,0.0
+alpha-amylase activity,0.0
+alpha-catenin binding,0.0
+alpha-tubulin binding,0.0
+amino acid sensor activity,0.0
+aminoacylase activity,0.0
+aminopeptidase activity,0.0
+amyloid-beta binding,0.0
+angiostatin binding,0.0
+ankyrin binding,0.0
+ankyrin repeat binding,0.0
+antigen binding,0.0005399834
+antioxidant activity,0.0
+apolipoprotein A-I binding,0.0
+apolipoprotein A-I receptor binding,0.0
+apolipoprotein binding,0.0
+apolipoprotein receptor binding,0.0
+arachidonic acid binding,0.0
+arginase activity,0.0
+aryldialkylphosphatase activity,0.0
+arylesterase activity,0.0
+aspartic-type endopeptidase activity,0.0
+aspartic-type peptidase activity,0.0
+axon guidance receptor activity,0.0
+beta-catenin binding,0.0
+bis(5'-adenosyl)-hexaphosphatase activity,0.0
+bis(5'-adenosyl)-pentaphosphatase activity,0.0
+bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) activity,0.0
+brain-derived neurotrophic factor binding,0.0
+bubble DNA binding,0.0
+cadherin binding,0.0
+calcidiol binding,0.0
+calcium channel inhibitor activity,0.0
+calcium ion binding,0.0053602327
+calcium oxalate binding,0.0
+calcium-activated potassium channel activity,0.0
+calcium-dependent cysteine-type endopeptidase activity,0.0
+calcium-dependent phospholipid binding,0.0
+calcium-dependent protein binding,0.0
+calmodulin binding,0.0
+carbohydrate binding,0.0
+carbohydrate derivative binding,0.0
+carboxylic ester hydrolase activity,0.0
+carboxypeptidase activity,0.0
+catalase activity,0.0
+cell adhesion molecule binding,0.0
+cell adhesive protein binding involved in bundle of His cell-Purkinje myocyte communication,0.0
+ceramide binding,0.0
+ceramide transfer activity,0.0
+cerebroside transfer activity,0.0
+chemokine activity,0.0
+chemorepellent activity,0.0
+chloride channel activity,0.0
+chloride ion binding,0.0
+cholesterol binding,0.0
+cholesterol transfer activity,0.002558269
+choline binding,0.0
+choloyl-CoA hydrolase activity,0.0
+chromatin DNA binding,0.0
+chromatin binding,0.0
+chromatin-protein adaptor activity,0.0
+citrate (Si)-synthase activity,0.0
+clathrin binding,0.0
+clathrin heavy chain binding,0.0
+clathrin light chain binding,0.0
+clathrin-uncoating ATPase activity,0.0
+collagen V binding,0.0
+collagen binding,0.0
+complement binding,0.0
+complement component C1q complex binding,8.327779e-05
+complement component C3a binding,0.0
+complement component C3b binding,0.0
+copper ion binding,0.006026751
+coreceptor activity,0.0
+cyclosporin A binding,0.0
+cysteine-type aminopeptidase activity,0.0
+cysteine-type deubiquitinase activity,0.0
+cysteine-type endopeptidase activity,0.0009094556
+cysteine-type endopeptidase inhibitor activity,0.0
+cysteine-type peptidase activity,0.0
+cytoskeletal motor activity,0.0
+cytoskeletal protein binding,0.0
+cytoskeletal protein-membrane anchor activity,0.0
+cytoskeleton-nuclear membrane anchor activity,0.0
+damaged DNA binding,0.0
+death receptor agonist activity,0.0
+death receptor binding,0.0
+delta-catenin binding,0.0
+denatured protein binding,0.0
+deoxycytidyl transferase activity,0.0
+diacylglyceride transfer activity,0.0
+diacylglycerol binding,0.0
+dinitrosyl-iron complex binding,0.0
+dipeptidase activity,0.0
+dipeptidyl-peptidase activity,0.0
+diphosphoinositol-polyphosphate diphosphatase activity,0.0
+disordered domain specific binding,0.0
+disulfide oxidoreductase activity,0.0
+double-stranded DNA binding,0.0
+double-stranded RNA adenosine deaminase activity,0.0
+double-stranded RNA binding,0.0
+double-stranded methylated DNA binding,0.0
+dynein complex binding,0.0
+dynein intermediate chain binding,0.0
+dynein light intermediate chain binding,0.0
+efflux transmembrane transporter activity,0.0
+endopeptidase activity,0.0
+endopeptidase inhibitor activity,0.0030420567
+endopolyphosphatase activity,0.0
+enterobactin binding,0.0
+enzyme binding,0.0
+enzyme inhibitor activity,0.0
+enzyme regulator activity,0.0
+ephrin receptor binding,0.0
+exogenous protein binding,0.0
+extracellular matrix binding,0.0
+extracellular matrix structural constituent,0.0
+extracellular matrix structural constituent conferring compression resistance,0.0
+extracellular matrix structural constituent conferring tensile strength,0.0
+fatty acid binding,0.0
+fatty acyl-CoA hydrolase activity,0.0
+ferric iron binding,0.0
+ferrous iron binding,0.0
+ferroxidase activity,0.0
+fibrinogen binding,0.0
+fibroblast growth factor binding,0.0
+fibronectin binding,0.0
+flavin-dependent sulfhydryl oxidase activity,0.0
+four-way junction DNA binding,0.0
+fructose binding,0.0
+fructose-1-phosphate aldolase activity,0.0
+fructose-bisphosphate aldolase activity,0.0
+gamma-catenin binding,0.0
+general transcription initiation factor binding,0.0
+glucuronosyl-N-acetylgalactosaminyl-proteoglycan 4-beta-N-acetylgalactosaminyltransferase activity,0.0
+glutamine synthetase activity,0.0
+glutathione peroxidase activity,0.0
+glutathione transferase activity,0.0
+glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity,0.0
+glycine-tRNA ligase activity,0.0
+glycosaminoglycan binding,0.0
+growth factor activity,0.0029934114
+growth factor binding,0.0
+guanyl-nucleotide exchange factor activity,0.0
+heat shock protein binding,0.0
+helicase activity,0.0
+heme binding,0.0
+heme transmembrane transporter activity,0.0
+hemoglobin alpha binding,0.0
+hemoglobin binding,0.0
+heparan sulfate binding,0.0
+heparan sulfate proteoglycan binding,0.0
+heparin binding,0.0058178054
+high-density lipoprotein particle binding,0.0
+high-density lipoprotein particle receptor binding,0.0
+histone H3 acetyltransferase activity,0.0
+histone H3K14 acetyltransferase activity,0.0
+histone H3T11 kinase activity,0.0
+histone acetyltransferase activity,0.0
+histone binding,0.036070183
+histone deacetylase binding,0.0
+histone pre-mRNA DCP binding,0.0
+hormone activity,0.0
+hyaluronic acid binding,0.0
+hydrolase activity,0.0
+hydroxymethylglutaryl-CoA hydrolase activity,0.0
+identical protein binding,0.00026133272
+immunoglobulin binding,0.0
+immunoglobulin receptor binding,0.0
+importin-alpha family protein binding,0.0
+"inositol-3,5-bisdiphosphate-2,3,4,6-tetrakisphosphate 5-diphosphatase activity",0.0
+"inositol-5-diphosphate-1,2,3,4,6-pentakisphosphate diphosphatase activity",0.0
+insulin-like growth factor binding,0.0
+integrin binding,0.0
+interleukin-1 binding,0.0
+interleukin-2 receptor binding,0.0
+interleukin-8 binding,0.0
+intermediate filament binding,0.005373016
+intraciliary transport particle A binding,0.0
+ionotropic glutamate receptor binding,0.0
+iron chaperone activity,0.0
+iron ion binding,0.0
+isocitrate dehydrogenase (NAD+) activity,0.0
+isocitrate dehydrogenase (NADP+) activity,0.0
+isomerase activity,0.0
+keratin filament binding,0.0
+kinase activity,0.0
+kinase binding,0.0
+kinase inhibitor activity,0.0
+kinase regulator activity,0.0
+kinesin binding,0.0
+kynurenine-oxoglutarate transaminase activity,0.0
+lamin binding,0.0
+laminin binding,0.0
+laminin receptor activity,0.0
+ligand-gated sodium channel activity,0.0
+lipase binding,0.0
+lipase inhibitor activity,0.0
+lipid binding,0.0
+lipid transporter activity,0.0
+lipopeptide binding,0.0
+lipopolysaccharide binding,0.0
+lipoprotein lipase activator activity,0.0
+lipoprotein particle binding,0.0
+lipoteichoic acid binding,0.0
+lncRNA binding,0.0
+long-chain fatty acyl-CoA hydrolase activity,0.0
+low-density lipoprotein particle binding,0.0
+low-density lipoprotein particle receptor binding,0.0
+lysine-acetylated histone binding,0.0017784357
+lysozyme activity,0.0
+mRNA 3'-UTR AU-rich region binding,0.0
+mRNA 3'-UTR binding,0.0
+mRNA binding,0.0
+magnesium ion binding,0.0037668142
+manganese ion binding,0.0
+medium-chain fatty acyl-CoA hydrolase activity,0.0
+metal chelating activity,0.0
+metal ion binding,0.0051080887
+metallocarboxypeptidase activity,0.0
+metallodipeptidase activity,0.0
+metalloendopeptidase inhibitor activity,0.0
+methionine adenosyltransferase activity,0.0
+methylated histone binding,0.0
+methylglyoxal synthase activity,0.0
+miRNA binding,0.0
+microfilament motor activity,0.0
+microtubule binding,0.0
+microtubule motor activity,0.0
+microtubule plus-end binding,0.0
+minus-end-directed microtubule motor activity,0.0
+misfolded protein binding,0.0007908513
+mitogen-activated protein kinase binding,0.0
+molecular adaptor activity,0.0
+molecular condensate scaffold activity,0.0
+molecular function activator activity,0.0
+molecular sequestering activity,0.0
+monoatomic anion channel activity,0.0
+monoatomic cation channel activity,0.0
+monoatomic ion channel activity,0.0
+monosaccharide binding,0.0
+myosin II binding,0.0
+myosin phosphatase activity,0.0
+myosin phosphatase regulator activity,0.0
+nerve growth factor binding,0.0
+neuropilin binding,0.0
+nicotinate-nucleotide adenylyltransferase activity,0.0
+nitric oxide binding,0.0
+nitric-oxide synthase binding,0.0
+non-membrane spanning protein tyrosine kinase activity,0.0
+nuclear receptor binding,0.0
+nucleosomal DNA binding,0.0
+nucleotide binding,0.0
+organic acid binding,0.0
+oxidoreductase activity,0.0
+"oxidoreductase activity, acting on metal ions, oxygen as acceptor",0.0
+"oxidoreductase activity, acting on peroxide as acceptor",0.0
+oxygen binding,0.0
+oxygen carrier activity,0.0
+p53 binding,0.0
+pattern recognition receptor activity,0.0
+peptidase activator activity,0.0
+peptidase activator activity involved in apoptotic process,0.0
+peptidase activity,0.0
+peptide binding,0.0
+peptide-lysine-N-acetyltransferase activity,0.0
+peptidoglycan binding,0.0
+peptidoglycan immune receptor activity,0.0
+peptidyl-prolyl cis-trans isomerase activity,0.0
+peroxidase activity,0.0
+phosphatase binding,0.0
+phosphate transmembrane transporter activity,0.0
+phosphate:proton symporter activity,0.0
+phosphatidic acid binding,0.0
+phosphatidic acid transfer activity,0.0
+phosphatidylcholine binding,0.0
+phosphatidylcholine floppase activity,0.0
+phosphatidylcholine transfer activity,0.0
+phosphatidylcholine-sterol O-acyltransferase activator activity,0.0
+phosphatidylcholine-sterol O-acyltransferase activity,0.0
+phosphatidylethanolamine binding,0.0
+phosphatidylethanolamine transfer activity,0.0
+phosphatidylglycerol binding,0.0
+phosphatidylglycerol transfer activity,0.0
+phosphatidylinositol 3-kinase catalytic subunit binding,0.0
+phosphatidylinositol binding,0.0
+phosphatidylinositol transfer activity,0.0
+"phosphatidylinositol-3,4,5-trisphosphate binding",0.0
+phosphatidylinositol-3-phosphate binding,0.0
+"phosphatidylinositol-4,5-bisphosphate binding",0.0
+phosphatidylserine binding,0.0009213735
+phosphatidylserine decarboxylase activity,0.0
+phosphoglycerate kinase activity,0.0
+phospholipase C activity,0.0
+phospholipase activator activity,0.0
+phospholipase binding,0.0
+phospholipase inhibitor activity,0.0
+phospholipid binding,0.0032081031
+phospholipid transfer activity,0.0
+phospholipid transporter activity,0.0
+phospholipid-hydroperoxide glutathione peroxidase activity,0.0
+phosphopyruvate hydratase activity,0.0
+phosphoserine residue binding,0.0
+phosphotyrosine residue binding,0.0
+platelet-activating factor acetyltransferase activity,0.0
+poly(A) binding,0.0
+poly(U) RNA binding,0.0
+polysaccharide binding,0.0
+potassium ion binding,0.0
+pre-mRNA intronic binding,0.0
+preribosome binding,0.0
+primary miRNA binding,0.0
+profilin binding,0.0
+proline-rich region binding,0.0
+propionyl-CoA carboxylase activity,0.0
+prostaglandin binding,0.0
+protease binding,0.0
+proteasome-activating activity,0.0
+protein carrier chaperone,0.0
+protein dimerization activity,0.0
+protein disulfide isomerase activity,0.0
+protein domain specific binding,0.0
+protein folding chaperone,0.0
+protein heterodimerization activity,0.0
+protein homodimerization activity,0.00090064394
+protein kinase A binding,0.0
+protein kinase A catalytic subunit binding,0.0
+protein kinase A regulatory subunit binding,0.0
+protein kinase C binding,0.0
+protein kinase C inhibitor activity,0.0
+protein kinase activator activity,0.0
+protein kinase activity,0.0
+protein kinase binding,0.0
+protein phosphatase binding,0.0
+protein phosphatase regulator activity,0.0
+protein sequestering activity,0.0
+protein serine kinase activity,0.0
+protein serine/threonine kinase activity,0.0
+protein serine/threonine phosphatase activity,0.0
+protein tag activity,0.0
+protein transmembrane transporter activity,0.0
+protein tyrosine kinase activity,0.0
+protein tyrosine phosphatase activity,0.0
+protein-RNA adaptor activity,0.0
+protein-RNA sequence-specific adaptor activity,0.0
+protein-containing complex binding,0.0
+protein-cysteine S-palmitoyltransferase activity,0.0
+protein-disulfide reductase (NAD(P)H) activity,0.0
+protein-disulfide reductase activity,0.0
+protein-folding chaperone binding,0.0001522753
+protein-glutamine gamma-glutamyltransferase activity,0.0
+protein-macromolecule adaptor activity,0.0
+protein-membrane adaptor activity,0.0
+proteinase activated receptor binding,0.0
+proteoglycan binding,0.0
+proton transmembrane transporter activity,0.0
+"proton-transporting ATP synthase activity, rotational mechanism",0.0
+"proton-transporting ATPase activity, rotational mechanism",0.0
+purine ribonucleoside triphosphate binding,0.0
+pyridoxal phosphate binding,0.0
+pyruvate kinase activity,0.0
+receptor ligand activity,0.0
+retinal binding,0.0
+retinoic acid binding,0.0
+retinol binding,0.0
+retinol transmembrane transporter activity,0.0
+retromer complex binding,0.0
+ribosome binding,0.0
+sarcosine dehydrogenase activity,0.001374823
+scaffold protein binding,0.0
+scavenger receptor activity,0.0
+selenium binding,0.0
+sequence-specific double-stranded DNA binding,0.0
+serine-type endopeptidase activity,0.0
+serine-type endopeptidase inhibitor activity,0.0
+serine-type peptidase activity,0.0
+signaling receptor activity,0.0
+signaling receptor binding,0.0013833573
+single-stranded DNA binding,0.0
+small GTPase binding,0.0
+small molecule binding,0.0
+snoRNA binding,0.0
+somatostatin receptor binding,0.0
+sphingomyelin transfer activity,0.0
+steroid binding,0.0
+sterol esterase activity,0.0
+structural constituent of chromatin,0.0
+structural constituent of cytoskeleton,0.0
+structural constituent of eye lens,0.0
+structural constituent of muscle,0.0
+structural constituent of nuclear pore,0.0
+structural constituent of postsynaptic actin cytoskeleton,0.0
+structural constituent of postsynaptic density,0.0
+structural constituent of ribosome,0.0
+structural constituent of skin epidermis,0.0
+structural molecule activity,0.0030474137
+succinyl-CoA hydrolase activity,0.0
+synaptic receptor adaptor activity,0.0
+syntaxin binding,0.0
+syntaxin-1 binding,0.0
+tRNA 2'-phosphotransferase activity,0.0
+tRNA-specific adenosine deaminase activity,0.0
+tau protein binding,0.0
+telomerase RNA binding,0.0
+thiamine pyrophosphate binding,0.0
+thioredoxin peroxidase activity,0.0
+thrombospondin receptor activity,0.0
+thyroid hormone binding,0.0
+thyrotropin-releasing hormone receptor binding,0.0
+toxic substance binding,0.0
+transcription coactivator activity,0.0
+transcription coregulator activity,0.0
+transcription corepressor activity,0.0
+transcription corepressor binding,0.0
+transcription factor binding,0.0
+transcription regulator inhibitor activity,0.0
+transferase activity,0.0
+transferrin receptor activity,0.0
+transferrin receptor binding,0.0
+transforming growth factor beta binding,0.0
+transition metal ion binding,0.0
+transketolase activity,0.0
+translation activator activity,0.0
+translation elongation factor activity,0.0
+"translation factor activity, RNA binding",0.0
+translation initiation factor activity,0.0
+transmembrane transporter binding,0.0
+triglyceride binding,0.0
+triglyceride lipase activity,0.0
+triose-phosphate isomerase activity,0.0
+tryptophan-tRNA ligase activity,0.0
+tubulin binding,0.0
+tumor necrosis factor binding,0.0
+tumor necrosis factor receptor binding,0.0
+type 1 angiotensin receptor binding,0.0
+type 2 angiotensin receptor binding,0.0
+type I transforming growth factor beta receptor binding,0.0
+type II transforming growth factor beta receptor binding,0.0
+ubiquitin binding,0.0
+ubiquitin ligase inhibitor activity,0.0
+ubiquitin protein ligase activity,0.0
+ubiquitin protein ligase binding,0.00432664
+ubiquitin-like ligase-substrate adaptor activity,0.0
+ubiquitin-like protein ligase binding,0.0
+unfolded protein binding,0.0
+very-low-density lipoprotein particle binding,0.0
+very-low-density lipoprotein particle receptor binding,0.0
+vinculin binding,0.0
+virion binding,0.0
+virus receptor activity,0.0
+vitamin D binding,0.0
+vitamin E binding,0.0
+vitamin transmembrane transporter activity,0.0
+zinc ion binding,0.0
+zinc ion sequestering activity,0.0
+zymogen binding,0.0
+A,0.0077191335
+C,0.005027568
+D,0.0031684558
+E,0.0035270036
+F,0.0065961834
+G,0.003003792
+H,0.0039507565
+I,0.007707737
+K,0.011380563
+L,0.0046963017
+M,0.003990275
+N,0.0030977903
+P,0.006038202
+Q,0.013430117
+R,0.006715277
+S,0.0020775874
+T,0.0060379426
+V,0.0054522706
+W,0.004916384
+X,0.0
+Y,0.00370119
+AExpo,0.0027524289
+CExpo,0.0045503676
+DExpo,0.0037697847
+EExpo,0.00596062
+FExpo,0.007104357
+GExpo,0.0037733105
+HExpo,0.0048472704
+IExpo,0.020447489
+KExpo,0.011168999
+LExpo,0.004582824
+MExpo,0.008163908
+NExpo,0.010238219
+PExpo,0.0045351814
+QExpo,0.0069738785
+RExpo,0.0028598136
+SExpo,0.0049432986
+TExpo,0.006370924
+VExpo,0.0052772565
+WExpo,0.0032048882
+XExpo,0.0
+YExpo,0.00831476
+CG,0.004024954
+CS,0.004573432
+CP,0.0044638724
+CL,0.0036842348
+HL,0.0031719592
+CA,0.006077292
+CE,0.005082339
+CD,0.0031715585
+CK,0.04278906
+CT,0.004389044
+CR,0.0029451668
+HA,0.0045525236
+HE,0.0046903347
+CN,0.003249589
+EV,0.004154781
+CQ,0.003051727
+CV,0.0030870212
+EL,0.004152301
+HK,0.00346538
+HV,0.0038588198
+HQ,0.0039527114
+EI,0.0031362642
+HR,0.0039601717
+HI,0.0116904685
+HS,0.0035061757
+ET,0.003074186
+CH,0.0027148249
+CI,0.0032110936
+ES,0.015192078
+CF,0.0021927748
+HD,0.0031265318
+EF,0.0026823836
+HT,0.0048095463
+EY,0.0074013835
+EA,0.004807967
+HF,0.0058244374
+CY,0.007192362
+CM,0.008787078
+ER,0.0024451653
+EK,0.0056087463
+CC,0.0041120234
+EE,0.0046845768
+HN,0.010021691
+HY,0.004589916
+EQ,0.0032056984
+HG,0.002822353
+HM,0.0038038509
+EG,0.0039166776
+HH,0.002384351
+EC,0.0055200057
+HP,0.008382188
+ED,0.0055389507
+HC,0.0058029685
+EN,0.0057501458
+CW,0.0033864179
+EH,0.0030283192
+EM,0.0028541288
+EW,0.0047430703
+HW,0.0068877116
+EP,0.0046100677
+CX,0.0
+EX,0.0
+disMean,0.0026197284
+phiMean,0.006462047
+psiMean,0.011728993
+Bq8,0.0033202795
+Cq8,0.00785771
+Eq8,0.004434737
+Gq8,0.013396787
+Hq8,0.0028540879
+Iq8,0.00267086
+Sq8,0.019203309
+Tq8,0.002268245
+Interactivity,0.0032251098
+Aspect Ratio,0.0018565513
+SurfaceArea,0.0015003217
+ZetaPotential,0.0018998791
+NTs,0.001487881
+Aptamers,0.0018339818
+3D,0.0
+Vertices,0.0028084302
+Cavities,0.0017642374
+Cholesterol,0.0048263
+Volume,0.0009995885
+PolyL,0.0030763224
+Molecular Weight Nano,0.0

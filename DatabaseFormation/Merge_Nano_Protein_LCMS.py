@@ -15,6 +15,9 @@ newPresent.drop('Unnamed: 0',axis =1 ,inplace = True)
 
 mergedPros = pd.read_csv(sys.argv[3],index_col=0)
 
+allEnrich = pd.read_csv(sys.argv[4]) #'TranslatedPresent8_6.csv'
+allEnrich.drop('Unnamed: 0',axis =1 ,inplace = True)
+
 newPresent=newPresent.loc[newPresent['ID'].isin(set(newPresent['ID']).intersection(set(mergedPros.index)))]
 newPresent.reset_index(drop=True, inplace=True)
 newPresent = newPresent[newPresent.Sample != 'MB']

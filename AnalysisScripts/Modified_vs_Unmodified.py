@@ -1,14 +1,9 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import sys
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib_venn import venn2, venn2_circles, venn2_unweighted
+import seaborn as sns
 
 datapresentPath=sys.argv[1]
 outputDir = 'Results\\'
@@ -64,12 +59,12 @@ for c in np.unique(overallRes3['Sample']):
                 structures.append(c[:-3])
             plList.append(tetOnly)
             bothList.append(both)
-            print(both/(both+tetOnly+tetCholOnly))
             #venn2(subsets = (tetOnly, both, tetCholOnly), set_labels = (c, c[:-2]))
             plt.show()
             #plt.savefig(c+'PLvsNonPL.png'bbox_inches='tight')
             #plt.clf()
 dfStack=pd.DataFrame({'Coated':plList,'Both':bothList,'Bare':nonPlList}, index = structures)
+dfStack.to_csv(outputDir + 'CoatedvsUncoatedTable.csv')
 
 fig = plt.figure(figsize=(8, 6))
 plt.rc('font', family='serif')
@@ -87,6 +82,7 @@ plt.xticks(rotation=45)
 plt.legend(bbox_to_anchor=(1.05, 1), loc='upper left')
 plt.title('Coated vs Uncoated Structures')
 plt.savefig(outputDir + 'coatedvsUncoated.png',bbox_inches='tight')
+plt.clf()
 
 both=0
 tetOnly = 0
@@ -113,4 +109,5 @@ for z in np.unique(overallRes3['ID']):
         continue
 venn2(subsets = (tetCholOnly,both,tetOnly), set_labels = ('Tetrahedron w/Chol','Tetrahedron Only'))
 plt.savefig(outputDir + 'tetvstetChol.png',bbox_inches='tight')
+plt.clf()
 

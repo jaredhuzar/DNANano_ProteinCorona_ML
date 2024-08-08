@@ -75,6 +75,7 @@ def plotDataSubsets(dataPresent):
     plt.xticks(rotation=45)
     g.legend.set_title("")
     plt.savefig(outputDir + 'PerformanceSubsets.png',bbox_inches='tight')
+    plt.clf()
     
     
 plotDataSubsets(dataPresent)

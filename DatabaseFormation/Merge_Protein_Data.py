@@ -1,7 +1,7 @@
 import pandas as pd
 import sys
 
-outputDir = 'AnalyzedTestData\\'
+outputDir = 'AnalyzedDataTest\\'
 
 proDataPath=sys.argv[1]
 proteinDatabase=pd.read_csv(proDataPath,index_col=0)
@@ -21,13 +21,13 @@ moreNetSurf=pd.read_csv(moreNetSurfPath,index_col=0)
 totPath=sys.argv[6]
 tot=pd.read_csv(totPath,index_col=0)
 
-totaaPath=sys.argv[8]
+totaaPath=sys.argv[7]
 totaa=pd.read_csv(totaaPath,index_col=0)
 
-totListaaExpoPath=sys.argv[9]
+totListaaExpoPath=sys.argv[8]
 totListaaExpo=pd.read_csv(totListaaExpoPath,index_col=0)
 
-combosPath=sys.argv[10]
+combosPath=sys.argv[9]
 combos=pd.read_csv(combosPath,index_col=0)
 
 
@@ -51,5 +51,5 @@ mergedPros=pd.concat([mergedPros,moreNetSurf], axis =1)
 mergedPros=pd.concat([mergedPros,tot], axis =1)
 mergedPros=pd.concat([mergedPros,Interactions], axis =1)
 
-mergedPros.to_csv(outputDir + 'ProStatistics8_5.csv')
+mergedPros.to_csv(outputDir + 'ProStatistics8_7.csv')
 

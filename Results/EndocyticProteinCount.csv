@@ -1,0 +1,18 @@
+,Sample,Protein Count,Nanostructure
+0,BoxPL,18,Modified
+1,I-10PL,13,Modified
+2,I-12 PL,20,Modified
+3,I-14 PL,14,Modified
+4,I-16 PL,11,Modified
+5,tube PL,8,Modified
+6,tetrahedron PL,13,Modified
+7,tetrahedron+cho PL,19,Modified
+8,tetrahedron+cho,14,Modified
+9,tetrahedron,7,Bare
+10,tube,8,Bare
+11,I-16,8,Bare
+12,I-14,6,Bare
+13,I-12,6,Bare
+14,I-10,9,Bare
+15,tile,10,Bare
+16,tensegrity,7,Bare

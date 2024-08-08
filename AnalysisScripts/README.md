@@ -2,50 +2,30 @@
 ==================
 Updated August 7, 2024
 
-This repository contains the code and data necessary to reproduce figures from "AI-based Prediction of Protein Corona Composition on DNA Nanostructures" by Jared Huzar*, Roxana Coreas* Markita P. Landry, and Grigory Tikhomirov. This article is available in preprint form on BioxRiv at [insert link].
+## AnalysisScripts
 
-Briefly, we develop a machine learning model that can determine whether a protein will be present in the protein corona of different nanostructures based on the design features of the DNA nanostructures and the functional, structural, and sequence properties of the protein. We also identify the properties of the proteins and the nanostructures that govern their adsorption.
+This directory contains scripts that create, test, and evaluate the machine learning model. In addition, they perform several other analyses elucidating different features of DNA nanostructures' coronas.
 
-*These authors contributed equally.
+- RunModelAnalysisPresent.py
+	- Develops an XGBoost machine learning model that predicts whether or not a protein will be adsorbed in the corona of different DNA nanostructures. Tests and evaluates this model.
 
-## Running the code
+- RunModelEnriched.py
+	- Develops an XGBoost machine learning model that predicts whether or not a protein will be enriched in the corona of different DNA nanostructures. Tests and evaluates this model.
 
-To run the code, please clone this GitHub repository and from the main directory run the 'Simplified_Complete_Code.ipynb' file on Jupyter Notebook to do each analysis step-by-step including the construction of the database. Alternatively, the entire analysis can be run from command line by running  'Simplified_Complete_Code.py'.
+- PerformanceAcrossSubsets.py
+	- Independently trains and evaluates XGBoost model on only DNA nanostructure data, only protein functional data, and only protein structural data and evaluates the effectiveness of each of these data subsets in predicting whether a protein will be present in nanostructures' coronas.
 
-The code was developed and tested on Windows 11 with python3.10. The following modules are required for running the entire analysis:
-- Numpy
-- Pandas
-- Seaborn
-- Math
-- Quantiprot
-- Matplotlib
-- Stats
-- XGBoost
-- Biopython
-- re
-- requests
-- sklearn
-- shap
-- scipy
-- upsetplot
-- matplotlib-venn
+- Modified_vsUnmodified.py
+	-Compares the protein composition between DNA only nanostructures, and those modified with either a polymer coating or cholesterol.
 
+- FunctionalEnrichment.py
+	- Evaluates whether proteins with different molecular functions are more present in the coronas than expected by random chance.
 
-Individual functions can also be ran on their own on the command line from the main directory by running the intended python files found in either the 'AnalysisScripts' directory or the 'DatabaseFormation' directory.
+- EndocyticProteinEnrichment.py
+	- Evaluates the enrichment of proteins associated with endocytosis in the corona of different nanostructures.
 
-## Scripts and data contained
+- DifferentProteinProperties.py
+	- Evaluates the difference between proteins universally present in all nanostructure coronas and those not found in any nanostructure coronas.
 
-The following subdirectories are housed within this repository:
-- AnalysisScripts
-	- Contains the scripts that produce the figures, run the machine learning model, and broadly analyze the nanostructures protein corona compositions.
-- AnalyzedData
-	- Contains the processed data which is required for the analysis
-- Data
-	- Contains the LCMS data, the Netsurf data, and the origami features database
-- DatabaseFormation
-	- Contains the python scripts that produce the database of protein properties and merges that data with the LCMS and origami data.
-
-
-Within the subdirectories, we have placed a readme file explaining the data, results, and/or python scripts of the respective directories.
-
-## References:
+- CommonProteins.py
+	- Evaluates the compositional similarity between coronas of different nanostructures.

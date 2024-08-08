@@ -94,13 +94,15 @@ def train_run_model(xData,yData, label1):
     #plt.title('All Information Enriched vs Not Enriched')
     g.set(ylim=(0, 1), xlabel ="Metrics", ylabel = "Scores", title ='Model Performance')
     plt.xticks(rotation = 45)
-    plt.savefig(outputDir + 'PresentPerformance.png', bbox_inches = 'tight')
+    plt.savefig(outputDir + label1 + 'PresentPerformance.png', bbox_inches = 'tight')
+    plt.clf()
     #plt.show()
     
     explainer = shap.Explainer(clf, data)
     shap_values = explainer.shap_values(data)
     shap.summary_plot(shap_values, data.astype("float"))
-    plt.savefig(outputDir + 'ShapPresent.png', bbox_inches = 'tight')
+    plt.savefig(outputDir + label1+'ShapPresent.png', bbox_inches = 'tight')
+    plt.clf()
     
     clf = classifier
     scores = list()
@@ -167,7 +169,8 @@ def train_run_model(xData,yData, label1):
     ax.axis("square")
     ax.legend(loc="lower right")
     #plt.show()
-    plt.savefig(outputDir + 'PresentAUC.png',bbox_inches='tight')
+    plt.savefig(outputDir + label1 + 'PresentAUC.png',bbox_inches='tight')
+    plt.clf()
     return [everymet,fets,shap_values]
 
 def getFeatureImportances(featureImportance, data):

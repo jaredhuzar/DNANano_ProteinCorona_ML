@@ -10,9 +10,9 @@ dataPresentPath=sys.argv[1]
 dataPresent=pd.read_csv(dataPresentPath)
 abundance_present = dataPresent['Present']
 abundance_present = np.asarray(abundance_present)
-overallResPres = data[['Present', 'Sample', 'Protein']]
+overallResPres = dataPresent[['Present', 'Sample', 'Protein']]
 dataPresent.drop(['Present', 'Protein', 'Sample', 'Unnamed: 0'],inplace = True, axis =1)
-
+outputDir = 'Results\\'
 
 def commonProteins(listPros,overallRes3, label):
     allPros = np.unique(overallRes3['ID'])
@@ -52,8 +52,9 @@ def commonProteins(listPros,overallRes3, label):
     cg.ax_row_dendrogram.set_visible(False)
     cg.ax_heatmap.set_xticklabels(cg.ax_heatmap.get_xmajorticklabels(), fontsize = 16)
     cg.ax_heatmap.set_yticklabels(cg.ax_heatmap.get_ymajorticklabels(), fontsize = 16)
-    #plt.savefig('StructureCoronaSimilarityHeatmap.png',bbox_inches='tight')
-
+    plt.savefig(outputDir + label + 'CoronaSimilarityHeatmap.png',bbox_inches='tight')
+    plt.clf()
+    
     allPros = np.unique(overallRes3['ID'])
     df = pd.DataFrame([[e in setA for setA in listSets] for e in allPros], columns = setNames)
     df=df.loc[:,listPros]
@@ -61,7 +62,7 @@ def commonProteins(listPros,overallRes3, label):
     fig1=upsetplot.UpSet(df_up,sort_by ='cardinality', min_degree = 1)
     #plot(fig1)
     fig1.plot()
-    plt.savfig(outputDir + label +'CommonProteins.png')
+    plt.savefig(outputDir + label +'CommonProteins.png')
     plt.clf()
     return pd.DataFrame(df_up)
 

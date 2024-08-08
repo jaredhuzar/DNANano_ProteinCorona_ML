@@ -13,20 +13,36 @@ import seaborn as sns
 import sys
 
 proStatsPath=sys.argv[1]
-posProteinsPath = sys.argv[2]
-negProteinsPath = sys.argv[3]
+
 
 outputDir = 'Results\\'
+
+dataPresentPath=sys.argv[2]
+dataPresent=pd.read_csv(dataPresentPath)
+overallResPres = dataPresent[['Present', 'Sample', 'Protein']]
+overallResPres=overallResPres.rename(columns={"Protein":'ID'})
+overallResPres=overallResPres.rename(columns={"Present":'Abundance'})
 
 proDatabase=pd.read_csv(proStatsPath)
 proDatabase.index = proDatabase['Unnamed: 0']
 proDatabase.drop('Unnamed: 0', axis =1, inplace = True)
 
-allposPros=pd.read_csv(posProteinsPath)
-allnegPros=pd.read_csv(negProteinsPath)
+pros = np.unique(overallResPres['ID'])
+presPros = list()
+absentPros = list()
+for pro in pros:
+    subRes=overallResPres[overallResPres['ID']==pro]
+    if(subRes['Abundance'].sum() == 17):
+        presPros.append(pro)
+    elif(subRes['Abundance'].sum() == 0):
+        absentPros.append(pro)
+pd.DataFrame(presPros).to_csv(outputDir + 'UniversallyPresentProteins.csv')
+pd.DataFrame(absentPros).to_csv(outputDir + 'UniversallyAbsentProteins.csv')
+#allposPros=pd.read_csv(posProteinsPath)
+#allnegPros=pd.read_csv(negProteinsPath)
 
-posproData=proDatabase.loc[allposPros]
-negproData=proDatabase.loc[allnegPros]
+posproData=proDatabase.loc[presPros]
+negproData=proDatabase.loc[absentPros]
 
 posproData['Dataset'] = 'Present'
 negproData['Dataset'] = 'Absent'
