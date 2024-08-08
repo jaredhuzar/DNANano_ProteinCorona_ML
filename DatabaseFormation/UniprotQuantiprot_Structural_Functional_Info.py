@@ -2,6 +2,8 @@ import re
 import pandas as pd
 import numpy as np
 import requests as r
+import warnings
+warnings.filterwarnings("ignore")
 
 import quantiprot
 from quantiprot.utils.io import load_fasta_file
@@ -50,7 +52,7 @@ for ID in proteinIDs:
     functions.append(re.findall('; F:(.*); ', Data))
 
     proteinURL = url + ID + '.fasta'
-    response = r.post(proteinURL)
+    response = r.post(proteinURL,verify=False)
     Data=''.join(response.text)
     proteinSeq=StringIO(Data)
     proteinSeq=SeqIO.read(proteinSeq,'fasta')
@@ -133,5 +135,6 @@ proteinDatabase=pd.DataFrame({'Protein':proteinIDs,'Hydropathy':hydropathy,'Net 
 proteinDatabase[['Helix','Turn','Sheets']] = secondarySturctures
 proteinDatabase.index = proteinDatabase['Protein']
 proteinDatabase.drop(['Protein'], axis = 1, inplace = True)
-proteinDatabase.head()
+
+proteinDatabase.to_csv(outputDir + 'ProData8_6.csv')
 

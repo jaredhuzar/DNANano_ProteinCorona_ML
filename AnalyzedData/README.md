@@ -44,9 +44,8 @@ The following subdirectories are housed within this repository:
 	- Contains the LCMS data, the Netsurf data, and the origami features database
 - DatabaseFormation
 	- Contains the python scripts that produce the database of protein properties and merges that data with the LCMS and origami data.
-- Results
-	- Contains figures and tables of statistics produced by the scripts in the AnalysisScripts directory.
 
 
-In the subdirectories, we have placed a readme file explaining the data, results, and/or python scripts within the respective directories.
+Within the subdirectories, we have placed a readme file explaining the data, results, and/or python scripts of the respective directories.
 
+## References:
