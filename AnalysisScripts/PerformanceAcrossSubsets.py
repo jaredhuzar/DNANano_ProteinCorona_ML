@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 from RunModelAnalysisPresent import train_run_model
 import pandas as pd
 import os 
@@ -17,6 +11,7 @@ origamidataPath=sys.argv[2]
 funcListPath=sys.argv[3]
 
 inputDir = 'AnalyzedData\\'
+outputDir = 'Results\\'
 
 dataPresent = pd.read_csv(datafilePath)
 abundance_present = dataPresent['Present']

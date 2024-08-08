@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import sys
 import pandas as pd
 import numpy as np
@@ -30,7 +24,7 @@ from sklearn.metrics import RocCurveDisplay, auc
 inputDir = 'AnalyzedData\\'
 outputDir = 'Results\\'
 
-inputFile=sys.argv[0]
+inputFile=sys.argv[1]
 
 dataPresent = pd.read_csv(inputFile)
 abundance_present = dataPresent['Present']
