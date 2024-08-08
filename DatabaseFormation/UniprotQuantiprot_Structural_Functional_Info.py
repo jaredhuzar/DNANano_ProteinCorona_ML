@@ -13,7 +13,8 @@ from quantiprot.metrics.basic import average, average_absolute
 import Bio
 from Bio.SeqUtils.ProtParam import ProteinAnalysis
 import sys
-
+from io import StringIO
+from Bio import SeqIO
 
 outputDir = 'AnalyzedDataTest\\'
 allPresentPath = sys.argv[1] #'TranslatedPresent8_4.csv'
@@ -41,7 +42,7 @@ aromaticities = list()
 for ID in proteinIDs:
     url = "http://www.uniprot.org/uniprot/"
     proteinURL = url + ID + '.txt'
-    response = r.post(proteinURL)
+    response = r.post(proteinURL,verify=False)
     Data=''.join(response.text)
     string1 = ID + '; (.*); NbExp'
     len(re.findall(string1, Data))
