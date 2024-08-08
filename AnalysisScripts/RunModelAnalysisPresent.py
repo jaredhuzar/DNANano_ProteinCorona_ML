@@ -100,7 +100,7 @@ def train_run_model(xData,yData, label1):
     
     explainer = shap.Explainer(clf, data)
     shap_values = explainer.shap_values(data)
-    shap.summary_plot(shap_values, data.astype("float"))
+    fig = shap.summary_plot(shap_values, data.astype("float"))
     plt.savefig(outputDir + label1+'ShapPresent.png', bbox_inches = 'tight')
     plt.clf()
     
@@ -168,7 +168,7 @@ def train_run_model(xData,yData, label1):
     plt.plot([0, 1], [0, 1], color="navy", lw=1, linestyle="--")
     ax.axis("square")
     ax.legend(loc="lower right")
-    #plt.show()
+    plt.show()
     plt.savefig(outputDir + label1 + 'PresentAUC.png',bbox_inches='tight')
     plt.clf()
     return [everymet,fets,shap_values]

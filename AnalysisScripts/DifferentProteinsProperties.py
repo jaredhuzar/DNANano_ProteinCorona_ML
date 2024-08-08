@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import scipy
 from scipy import stats
 import pandas as pd
@@ -11,6 +5,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 import sys
+
+sns.set_style('white')
+sns.set_context("paper", font_scale = 2)
 
 proStatsPath=sys.argv[1]
 

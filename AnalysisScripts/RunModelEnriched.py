@@ -98,8 +98,10 @@ def train_run_model(xData,yData, label1):
     
     explainer = shap.Explainer(clf, data)
     shap_values = explainer.shap_values(data)
-    shap.summary_plot(shap_values, data.astype("float"))
+    fig = shap.summary_plot(shap_values, data.astype("float"))
+    plt.show()
     plt.savefig(outputDir + 'ShapEnriched.png', bbox_inches = 'tight')
+    plt.clf()
     
     clf = classifier
     scores = list()

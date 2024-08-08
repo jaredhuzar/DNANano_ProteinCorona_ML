@@ -107,7 +107,8 @@ for z in np.unique(overallRes3['ID']):
         tetOnly = tetOnly+1
     else:
         continue
-venn2(subsets = (tetCholOnly,both,tetOnly), set_labels = ('Tetrahedron w/Chol','Tetrahedron Only'))
+print('Chol Only: ' + str(tetCholOnly), ' ; Bare only: ' + str(tetOnly) + ' ; Both: '+ str(both)) 
+venn2(subsets = (tetCholOnly,tetOnly, both), set_labels = ('Tetrahedron w/Chol','Tetrahedron Only'))
 plt.savefig(outputDir + 'tetvstetChol.png',bbox_inches='tight')
 plt.clf()
 
