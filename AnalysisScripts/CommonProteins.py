@@ -78,7 +78,7 @@ overallBare=overallResPres[~ overallResPres.Sample.str.contains("PL")]
 overallBare=overallBare[~ overallBare.Sample.str.contains("cho")]
 dfAllBare=commonProteins(np.unique(overallBare['Sample']),overallBare, 'BareSamples')
 
-overall2D=overallResPres.loc[overallResPres['Sample'].isin(['tile','I-10','I-12','I-14','I-16'])]
+overall2D=overallResPres.loc[overallResPres['Sample'].isin(['I-10','I-12','I-14','I-16'])]
 df2D=commonProteins(np.unique(overall2D['Sample']),overall2D, '2DSamples')
 
 overallDimensions=overallResPres.loc[overallResPres['Sample'].isin(['tube','tensegrity','tile','I-12'])]

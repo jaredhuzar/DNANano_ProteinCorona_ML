@@ -1,6 +1,6 @@
 # AI-based Prediction of Protein Corona Composition on DNA Nanostructures
 ==================
-Updated August 7, 2024
+Updated August 9, 2024
 
 ## AnalysisScripts
 
@@ -29,3 +29,12 @@ This directory contains scripts that create, test, and evaluate the machine lear
 
 - CommonProteins.py
 	- Evaluates the compositional similarity between coronas of different nanostructures.
+
+- CoatedvsUncoatedModels.y
+	- Trains and evaluates models for predicting protein in-corona presence on coated and bare structures separately.
+
+- ModelComparison.py
+	- Evaluates the performance of three different ML models for the classification of in-corona presence.
+
+- RunClassifier_EachNanostructure
+	- Trains and evaluates XGBoost models trained on each nanostructure individually.

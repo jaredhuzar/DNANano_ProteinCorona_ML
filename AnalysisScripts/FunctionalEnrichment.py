@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import pandas as pd
 import numpy as np
 import sys
@@ -12,6 +6,8 @@ from scipy import stats
 import seaborn as sns
 import matplotlib.pyplot as plt
 
+sns.set_style('white')
+sns.set_context("paper", font_scale = 2)
 
 dataPresentPath= sys.argv[1]
 funcListPath = sys.argv[2]

@@ -5,6 +5,8 @@ import matplotlib.pyplot as plt
 from matplotlib_venn import venn2, venn2_circles, venn2_unweighted
 import seaborn as sns
 
+sns.set_style('white')
+sns.set_context("paper", font_scale = 2)
 datapresentPath=sys.argv[1]
 outputDir = 'Results\\'
 

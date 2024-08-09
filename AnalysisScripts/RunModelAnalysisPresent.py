@@ -21,6 +21,9 @@ from sklearn.metrics import roc_auc_score
 import matplotlib.pyplot as plt
 from sklearn.metrics import RocCurveDisplay, auc
 
+sns.set_style('white')
+sns.set_context("paper", font_scale = 2)
+
 inputDir = 'AnalyzedData\\'
 outputDir = 'Results\\'
 
@@ -96,13 +99,14 @@ def train_run_model(xData,yData, label1):
     plt.xticks(rotation = 45)
     plt.savefig(outputDir + label1 + 'PresentPerformance.png', bbox_inches = 'tight')
     plt.clf()
-    #plt.show()
+    plt.show()
     
     explainer = shap.Explainer(clf, data)
     shap_values = explainer.shap_values(data)
-    fig = shap.summary_plot(shap_values, data.astype("float"))
+    shap.summary_plot(shap_values, data.astype("float"), show = False)
     plt.savefig(outputDir + label1+'ShapPresent.png', bbox_inches = 'tight')
     plt.clf()
+    plt.show()
     
     clf = classifier
     scores = list()
@@ -168,7 +172,6 @@ def train_run_model(xData,yData, label1):
     plt.plot([0, 1], [0, 1], color="navy", lw=1, linestyle="--")
     ax.axis("square")
     ax.legend(loc="lower right")
-    plt.show()
     plt.savefig(outputDir + label1 + 'PresentAUC.png',bbox_inches='tight')
     plt.clf()
     return [everymet,fets,shap_values]

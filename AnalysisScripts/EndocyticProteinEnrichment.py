@@ -4,6 +4,8 @@ import sys
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+sns.set_style('white')
+sns.set_context("paper", font_scale = 2)
 
 outputDir = 'Results\\'
 mappingPath=sys.argv[1]

@@ -6,6 +6,9 @@ import matplotlib.pyplot as plt
 import sys
 import seaborn as sns
 
+sns.set_style('white')
+sns.set_context("paper", font_scale = 2)
+
 datafilePath=sys.argv[1]
 origamidataPath=sys.argv[2]
 funcListPath=sys.argv[3]
@@ -76,7 +79,8 @@ def plotDataSubsets(dataPresent):
     g.legend.set_title("")
     plt.savefig(outputDir + 'PerformanceSubsets.png',bbox_inches='tight')
     plt.clf()
+    return metricComparison
     
     
-plotDataSubsets(dataPresent)
-
+metrics=plotDataSubsets(dataPresent)
+metrics.to_csv(outputDir + 'SubsetComparison.csv')

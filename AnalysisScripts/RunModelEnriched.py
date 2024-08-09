@@ -21,6 +21,9 @@ from sklearn.metrics import roc_auc_score
 import matplotlib.pyplot as plt
 from sklearn.metrics import RocCurveDisplay, auc
 
+sns.set_style('white')
+sns.set_context("paper", font_scale = 2)
+
 inputDir = 'AnalyzedData\\'
 outputDir = 'Results\\'
 
