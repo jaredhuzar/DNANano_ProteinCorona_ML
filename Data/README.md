@@ -1,6 +1,7 @@
 # AI-based Prediction of Protein Corona Composition on DNA Nanostructures
 ==================
-Updated August 7, 2024
+
+Updated August 15, 2024
 
 ## Data Folder
 

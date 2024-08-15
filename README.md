@@ -1,7 +1,7 @@
 # AI-based Prediction of Protein Corona Composition on DNA Nanostructures
 ==================
 
-Updated August 7, 2024
+Updated August 15, 2024
 
 This repository contains the code and data necessary to reproduce figures from "AI-based Prediction of Protein Corona Composition on DNA Nanostructures" by Jared Huzar*, Roxana Coreas* Markita P. Landry, and Grigory Tikhomirov. This article is available in preprint form on BioxRiv at [insert link].
 
@@ -11,7 +11,7 @@ Briefly, we develop a machine learning model that can determine whether a protei
 
 ## Running the code
 
-To run the code, please clone this GitHub repository and from the main directory run the 'Simplified_Complete_Code.ipynb' file on Jupyter Notebook to do each analysis step-by-step including the construction of the database. Alternatively, the entire analysis can be run from command line by running  'Simplified_Complete_Code.py'.
+To run the code, please clone this GitHub repository and from the main directory run the 'Simplified_Complete_Code.ipynb' file on Jupyter Notebook to do each analysis step-by-step including the construction of the database. Alternatively, the entire analysis can be run from command line by running  'Simplified_Complete_Code.py'. Results will be output in the 'Results' folder, and intermediate data files will be in the 'AnalyzedDataTest' folder.
 
 The code was developed and tested on Windows 11 with python3.10. The following modules are required for running the entire analysis:
 - Numpy
