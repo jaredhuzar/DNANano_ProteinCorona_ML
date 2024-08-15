@@ -153,6 +153,7 @@ outputDir1 = 'Results\\allVariables\\'
 vars1=np.unique(compPlot['Variables'])
 for var in vars1:
     sns.violinplot(data=compPlot[compPlot['Variables']==var], x='Variables', hue='Protein', y='Values', split=True,inner = 'quart', cut = 0, pallete = 'colorblind')
+    #sns.violinplot(data=compPlot[compPlot['Variables']==var], x='Variables', hue='Protein', y='Values', gap=2, split=True,inner = 'point', cut = 0, pallete = 'colorblind')
     plt.xticks(rotation=45)
     plt.savefig(outputDir1 + var + '_PresvsAbsent.png',bbox_inches='tight')
     plt.clf()
