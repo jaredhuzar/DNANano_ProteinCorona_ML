@@ -3,7 +3,7 @@
 
 Updated August 15, 2024
 
-This repository contains the code and data necessary to reproduce figures from "AI-based Prediction of Protein Corona Composition on DNA Nanostructures" by Jared Huzar*, Roxana Coreas* Markita P. Landry, and Grigory Tikhomirov. This article is available in preprint form on BioxRiv at [insert link].
+This repository contains the code and data necessary to reproduce figures from "AI-based Prediction of Protein Corona Composition on DNA Nanostructures" by Jared Huzar*, Roxana Coreas* Markita P. Landry, and Grigory Tikhomirov. This article is available in preprint form on BioxRiv at https://www.biorxiv.org/content/10.1101/2024.08.25.609594v1.
 
 Briefly, we develop a machine learning model that can determine whether a protein will be present in the protein corona of different nanostructures based on the design features of the DNA nanostructures and the functional, structural, and sequence properties of the protein. We also identify the properties of the proteins and the nanostructures that govern their adsorption.
 
